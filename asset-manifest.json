@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project_order-food/static/css/main.a60b636c.chunk.css",
+    "main.js": "/project_order-food/static/js/main.c484c818.chunk.js",
+    "main.js.map": "/project_order-food/static/js/main.c484c818.chunk.js.map",
+    "runtime-main.js": "/project_order-food/static/js/runtime-main.5e631258.js",
+    "runtime-main.js.map": "/project_order-food/static/js/runtime-main.5e631258.js.map",
+    "static/js/2.0493bb5f.chunk.js": "/project_order-food/static/js/2.0493bb5f.chunk.js",
+    "static/js/2.0493bb5f.chunk.js.map": "/project_order-food/static/js/2.0493bb5f.chunk.js.map",
+    "index.html": "/project_order-food/index.html",
+    "static/css/main.a60b636c.chunk.css.map": "/project_order-food/static/css/main.a60b636c.chunk.css.map",
+    "static/js/2.0493bb5f.chunk.js.LICENSE.txt": "/project_order-food/static/js/2.0493bb5f.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/project_order-food/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e631258.js",
+    "static/js/2.0493bb5f.chunk.js",
+    "static/css/main.a60b636c.chunk.css",
+    "static/js/main.c484c818.chunk.js"
+  ]
+}
